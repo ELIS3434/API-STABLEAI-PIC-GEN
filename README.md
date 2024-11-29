@@ -41,8 +41,8 @@ A modern JavaScript interface for Stable Diffusion models with advanced features
 ### ⚡ Quick Install
 ```bash
 # 🔍 Clone repository
-git clone https://github.com/yourusername/stable-flux.git
-cd stable-flux
+git clone https://github.com/ELIS3434/API-STABLEAI-PIC-GEN
+cd API-STABLEAI-PIC-GEN
 
 # 📦 Install dependencies
 pip install -r requirements.txt
@@ -164,10 +164,5 @@ This project is under the MIT License ⚖️
 - 🐛 Found a bug? Open an issue!
 - 💡 Have an idea? Start a discussion!
 - 🔧 Want to contribute? Submit a PR!
-
-## 🌟 Star Us!
-
-If you like Stable Flux.js, give us a star! ⭐
-
----
-Made with ❤️ by the Stable Flux Team
+- 
+Made with ❤️
